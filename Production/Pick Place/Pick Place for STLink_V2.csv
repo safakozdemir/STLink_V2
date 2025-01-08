@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\STLink_V2\Production\Pick Place\Pick Place for STLink_V2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08.01.25
+Time:       21:38
+Revision:   e10564c81f0c7473df36e4c9718f0361e44d4170
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Y1","8MHz","TopLayer","My_Crystal_SMD","94.4880mm","78.3591mm","90","Crystal"
+"W1","Jumper","TopLayer","My_1X02","88.4580mm","88.5190mm","0","Jumper Wire"
+"U2","STM32F103C8T6","TopLayer","QFP50P900X900X160-48N","82.4230mm","80.1370mm","180","ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7)"
+"U1","LM1117","BottomLayer","MY_SOT223","66.7158mm","82.4817mm","180","Low Drop Voltage Reg"
+"R21","100K","BottomLayer","MY_0805","83.5660mm","88.6460mm","180","Standard resistor"
+"R20","470","TopLayer","MY_0805","89.5350mm","69.2912mm","0","Standard resistor"
+"R19","10K","TopLayer","MY_0805","90.0430mm","79.2480mm","180","Standard resistor"
+"R18","100","TopLayer","MY_0805","76.0730mm","83.1850mm","90","Standard resistor"
+"R17","10K","TopLayer","MY_0805","89.9160mm","75.1840mm","180","Standard resistor"
+"R16","22","BottomLayer","MY_0805","94.7420mm","83.4390mm","0","Standard resistor"
+"R15","470","TopLayer","MY_0805","94.3610mm","87.3760mm","0","Standard resistor"
+"R14","22","BottomLayer","MY_0805","94.7420mm","80.7720mm","0","Standard resistor"
+"R13","22","BottomLayer","MY_0805","94.7420mm","75.6920mm","0","Standard resistor"
+"R12","4K7","BottomLayer","MY_0805","83.5660mm","82.9310mm","0","Standard resistor"
+"R11","100K","TopLayer","MY_0805","83.8200mm","87.3760mm","0","Standard resistor"
+"R10","4K7","BottomLayer","MY_0805","83.5660mm","85.7885mm","180","Standard resistor"
+"R9","100K","TopLayer","MY_0805","83.5660mm","72.8210mm","90","Standard resistor"
+"R8","1K5","TopLayer","MY_0805","66.8020mm","79.7560mm","90","Standard resistor"
+"R7","36K","TopLayer","MY_0805","72.1360mm","84.3026mm","0","Standard resistor"
+"R6","100","TopLayer","MY_0805","68.9610mm","85.0900mm","90","Standard resistor"
+"R5","100K","TopLayer","MY_0805","65.0900mm","70.9930mm","0","Standard resistor"
+"R4","0","TopLayer","MY_0805","65.0900mm","73.5330mm","0","Standard resistor"
+"R3","1K","TopLayer","MY_0805","60.5790mm","84.5820mm","0","Standard resistor"
+"R2","0","TopLayer","MY_0805","65.0900mm","75.9460mm","0","Standard resistor"
+"R1","10K","TopLayer","MY_0805","66.2940mm","85.0900mm","90","Standard resistor"
+"Q1","BC817,215","TopLayer","SOT95P230X110-3N","70.1040mm","81.1530mm","0","Bipolar (BJT) Transistor NPN 45 V 500 mA 100MHz 250 mW Surface Mount TO-236AB"
+"P2","Header 4","TopLayer","My_1X04","76.7080mm","72.5170mm","0","Header, 4-Pin"
+"P1","Header 5","TopLayer","My_1X05","98.5520mm","78.6130mm","90","Header, 5-Pin"
+"J1","MUSB-05-X-AB-SM-A","TopLayer","SAMTEC_MUSB-05-X-AB-SM-A","58.5520mm","77.3020mm","270","USB - mini AB Receptacle Connector 5 Position Surface Mount, Right Angle"
+"F1","","TopLayer","PTC-0805","64.2532mm","81.2878mm","90","PTC"
+"D4","BLUE","TopLayer","MY_LED_0805","94.3610mm","69.2912mm","180","Typical INFRARED GaAs LED"
+"D3","RED","TopLayer","MY_LED_0805","98.2980mm","87.3760mm","180","Typical INFRARED GaAs LED"
+"D2","TVS DIODE","TopLayer","SOT-23","69.9770mm","77.4700mm","180",""
+"D1","LED","TopLayer","MY_LED_1206","56.0070mm","84.5820mm","0","Typical INFRARED GaAs LED"
+"C11","100nF","BottomLayer","C805","88.6300mm","85.8520mm","0","Capacitor"
+"C10","1uF","TopLayer","C805","86.3600mm","73.5330mm","0","Capacitor"
+"C9","10nF","TopLayer","C805","56.8960mm","86.7410mm","0","Capacitor"
+"C8","4.7uF","TopLayer","C805","79.5020mm","88.1380mm","180","Capacitor"
+"C7","100nF","TopLayer","C805","79.5020mm","86.4870mm","180","Capacitor"
+"C6","100nF","TopLayer","C805","76.2000mm","75.5650mm","0","Capacitor"
+"C5","100nF","TopLayer","C805","75.4380mm","77.2160mm","0","Capacitor"
+"C4","10uF","BottomLayer","MY_SMC_B","68.3260mm","74.4220mm","270","Polar capacitor"
+"C3","10uF","BottomLayer","MY_SMC_B","65.0240mm","74.4220mm","270","Polar capacitor"
+"C2","18pF","TopLayer","C805","87.6300mm","85.8520mm","0","Capacitor"
+"C1","18pF","TopLayer","C805","90.2970mm","73.0250mm","0","Capacitor"

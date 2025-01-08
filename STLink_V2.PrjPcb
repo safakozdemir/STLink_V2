@@ -139,102 +139,110 @@ DocumentPath=Project Outputs for STLink_V2\Design Rule Check - STLink_V2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Production\Gerber\STLink_V2.1
+DocumentPath=Production\Pick Place\Pick Place for STLink_V2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Production\NC Drill\STLink_V2.DRR
+DocumentPath=Production\Pick Place\Pick Place for STLink_V2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Production\Gerber\STLink_V2.EXTREP
+DocumentPath=Production\Gerber\STLink_V2.1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Production\Gerber\STLink_V2.GBL
+DocumentPath=Production\NC Drill\STLink_V2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Production\Gerber\STLink_V2.GBO
+DocumentPath=Production\Gerber\STLink_V2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Production\Gerber\STLink_V2.GBP
+DocumentPath=Production\Gerber\STLink_V2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Production\Gerber\STLink_V2.GBS
+DocumentPath=Production\Gerber\STLink_V2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Production\Gerber\STLink_V2.GD1
+DocumentPath=Production\Gerber\STLink_V2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Production\Gerber\STLink_V2.GG1
+DocumentPath=Production\Gerber\STLink_V2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Production\Gerber\STLink_V2.GKO
+DocumentPath=Production\Gerber\STLink_V2.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Production\Gerber\STLink_V2.GM
+DocumentPath=Production\Gerber\STLink_V2.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Production\Gerber\STLink_V2.GM1
+DocumentPath=Production\Gerber\STLink_V2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Production\Gerber\STLink_V2.GM13
+DocumentPath=Production\Gerber\STLink_V2.GM
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Production\Gerber\STLink_V2.GM15
+DocumentPath=Production\Gerber\STLink_V2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Production\Gerber\STLink_V2.GML
+DocumentPath=Production\Gerber\STLink_V2.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Production\Gerber\STLink_V2.GPB
+DocumentPath=Production\Gerber\STLink_V2.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Production\Gerber\STLink_V2.GPT
+DocumentPath=Production\Gerber\STLink_V2.GML
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Production\Gerber\STLink_V2.GTL
+DocumentPath=Production\Gerber\STLink_V2.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Production\Gerber\STLink_V2.GTO
+DocumentPath=Production\Gerber\STLink_V2.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Production\Gerber\STLink_V2.GTP
+DocumentPath=Production\Gerber\STLink_V2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Production\Gerber\STLink_V2.GTS
+DocumentPath=Production\Gerber\STLink_V2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Production\NC Drill\STLink_V2.LDP
+DocumentPath=Production\Gerber\STLink_V2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Production\Gerber\STLink_V2.REP
+DocumentPath=Production\Gerber\STLink_V2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Production\NC Drill\STLink_V2.TXT
+DocumentPath=Production\NC Drill\STLink_V2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Production\Gerber\STLink_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Production\NC Drill\STLink_V2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Production\STLink_V2.xlsx
 DItemRevisionGUID=
 

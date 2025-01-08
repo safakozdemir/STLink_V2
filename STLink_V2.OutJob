@@ -65,10 +65,10 @@ OutputName3=NC Drill Files
 OutputCategory3=Fabrication
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
-OutputEnabled3_OutputMedium3=1
+OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
@@ -97,9 +97,22 @@ Configuration4_Name5=VisibleOrder
 Configuration4_Item5=Comment=120|Description=120|Designator=120|Footprint=120|Quantity=120
 Configuration4_Name6=VisibleOrder_Flat
 Configuration4_Item6=Comment=120|Description=120|Designator=120|Footprint=120|Quantity=120
+OutputType5=Pick Place
+OutputName5=Generates pick and place files
+OutputCategory5=Assembly
+OutputDocumentPath5=
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=1
+OutputEnabled5_OutputMedium4=0
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#18=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#19=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#20=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#21=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#22=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#23=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#24=Name:Volte,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#25=Name:Designer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#26=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#27=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#28=Name:PackageVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#29=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#30=Name:ASiD Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#31=Name:Published,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|DocumentPath=C:\Users\Public\Documents\Altium\STLink_V2\STLink_V2.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Public\Documents\Altium\STLink_V2\Production\STLink_V2.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\STLink_V2\Production\3D.PDF
 ReleaseManaged2=0
 OutputBasePath2=C:\Users\Public\Documents\Altium\STLink_V2\Production\
 OutputPathMedia2=
@@ -107,7 +120,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=3D.PDF
+OutputFileName2=drill.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -141,7 +154,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for STLink_V2
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -178,7 +191,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Public\Documents\Altium\STLink_V2\Production\STLink_V2.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\STLink_V2\Production\3D.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Public\Documents\Altium\STLink_V2\Production\
 OpenOutputs3=1
